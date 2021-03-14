@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: url("images/yui-min.jpg");
+  background-image: url("../images/yui-min.jpg");
   background-position: 50% 50%;
 }
 
@@ -130,7 +130,7 @@
     min-height: 720px;
   }
 }.u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/pexels-photo-5269605.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../images/pexels-photo-5269605.jpeg");
 }
 
 .u-section-2 .u-sheet-1 {

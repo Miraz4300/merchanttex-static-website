@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(255,255,255,0.85), rgba(255,255,255,0.85)), url("images/pexelsphoto707581.jpeg");
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.85), rgba(255,255,255,0.85)), url("../images/pexelsphoto707581.jpeg");
   background-position: 50% 50%;
 }
 
@@ -162,7 +162,7 @@
 }
 
 .u-section-2 .u-image-1 {
-  background-image: url("images/pexels-jess-bailey-designs-7457611.jpg");
+  background-image: url("../images/pexels-jess-bailey-designs-7457611.jpg");
   background-position: 68.03% 50%;
 }
 
